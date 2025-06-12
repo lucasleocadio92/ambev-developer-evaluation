@@ -1,0 +1,26 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/backend/src/Ambev.DeveloperEvaluation.Application/bin/Debug/net8.0
+/backend/src/Ambev.DeveloperEvaluation.Application/obj
+/backend/obj
+*.targets
+/backend/.vs
+/backend/src/Ambev.DeveloperEvaluation.Common/bin/Debug/net8.0
+/backend/src/Ambev.DeveloperEvaluation.Common/obj
+/backend/src/Ambev.DeveloperEvaluation.Domain/bin/Debug/net8.0
+/backend/src/Ambev.DeveloperEvaluation.Domain/obj
+/backend/src/Ambev.DeveloperEvaluation.IoC/bin/Debug/net8.0
+/backend/src/Ambev.DeveloperEvaluation.IoC/obj
+/backend/src/Ambev.DeveloperEvaluation.ORM/bin/Debug/net8.0
+/backend/src/Ambev.DeveloperEvaluation.ORM/obj
+/backend/src/Ambev.DeveloperEvaluation.WebApi/bin/Debug/net8.0
+/backend/src/Ambev.DeveloperEvaluation.WebApi/obj
+*.user
+/backend/tests/Ambev.DeveloperEvaluation.Functional/bin
+/backend/tests/Ambev.DeveloperEvaluation.Functional/obj
+/backend/tests/Ambev.DeveloperEvaluation.Integration/bin
+/backend/tests/Ambev.DeveloperEvaluation.Integration/obj
+/backend/tests/Ambev.DeveloperEvaluation.Unit/bin
+/backend/tests/Ambev.DeveloperEvaluation.Unit/obj
